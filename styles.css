@@ -1,0 +1,39 @@
+body h1.name{
+    font-size: 30px;
+    color: white;
+    background-color: black;
+}
+
+body h1.title{
+    font-size: 26px;
+    font-weight: bold;
+    color: rgb(190, 15, 38);
+    font-family: "Times New Roman", Times, serif;
+}
+
+body ul.bullets li{
+    font-size:18px;
+    color:rgb(190, 15, 38);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body ol.instructions li{
+    font-size:18px;
+    color:rgb(15, 1, 199);
+    font-family: Arial, Helvetica, sans-serif;
+}
+body h2{
+    color:rgb(8, 189, 47);
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body p{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+body h3{
+    font-size:20px;
+    color:blue;
+}
